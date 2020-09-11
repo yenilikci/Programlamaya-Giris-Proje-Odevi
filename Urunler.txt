@@ -1,0 +1,10 @@
+1 Cimento kg 1200 kaliteliCimento
+2 Kirec kg 400 kaliteliKirec
+3 Demir kg 30000 kaliteliDemir
+4 Celik kg 120000 kaliteliCelik
+5 Tugla kg 7000 kaliteliTugla
+6 Tahta kg 100 kaliteliTahta
+7 Polyester kg 5200 kaliteliPolyester
+8 Seramik kg 14300 kaliteliSeramik
+9 Cam kg 2200 kaliteliCam
+10 Boya kg 75 kaliteliBoya
